@@ -32,7 +32,7 @@
 
 
 ##
-[LinkedIn](www.linkedin.com/in/miłosz-brzeziński-85b896185) </br>
+[LinkedIn](https://www.linkedin.com/in/miłosz-brzeziński-85b896185) </br>
 www.miloszbrzezinski.com
 
 
