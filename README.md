@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Milosz! 👋
 
-<!--
-**miloszbrzezinski/miloszbrzezinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Robotic based in [Your Location]. I specialize in [Your Specialization] and have a passion for [Something You're Passionate About]. When I'm not coding, you'll find me [Your Hobby or Interest].
 
-Here are some ideas to get you started:
+## Skills
+- 💻 **Languages:** TypeScript, Java, Python, JavaScript, HTML, CSS, Swift
+- 🛠️ **Tools & Technologies:** React, Next.JS, Tailwind, Node.js
+- 📊 **Data:** MySQL, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Libriflow]**: A brief description of the project. [Link to Project](GitHub URL)
+
+## Connect with Me
+- 📧 Email me at mailto:milosz.brzezinski@icloud.com
+- 📱 www.linkedin.com/in/miłosz-brzeziński-85b896185
+
+
+🌐 miloszbrzezinski.com
+
+
