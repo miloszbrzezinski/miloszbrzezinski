@@ -32,12 +32,8 @@
 
 
 ##
-<ul>
-  <li><a target=”_blank href="www.linkedin.com/in/miłosz-brzeziński-85b896185">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a></li>
-  <li>🌐 www.miloszbrzezinski.com</li>
-</ul>
+[LinkedIn](www.linkedin.com/in/miłosz-brzeziński-85b896185) </br>
+www.miloszbrzezinski.com
 
 
 
