@@ -19,7 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-2. **Tic-Tac-Toe**: Play against a friend or test your skills against our AI, powered by the strategic Minimax algorithm. [Link to Project](https://github.com/miloszbrzezinski/tic-tac-toe) <br/>
+2. **Tic-Tac-Toe**: Play against a friend or test your skills against the machine, powered by the strategic Minimax algorithm. [Link to Project](https://github.com/miloszbrzezinski/tic-tac-toe) <br/>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
